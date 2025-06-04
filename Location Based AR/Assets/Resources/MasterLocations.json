@@ -1,0 +1,154 @@
+{
+    "locations": [
+        {
+            "name": "Dotty",
+            "latitude": 36.1212399,
+            "longitude": -95.9764414,
+            "altitude": 200
+        },
+        {
+            "name": "Willie P., the Wild One",
+            "latitude": 36.0938625,
+            "longitude": -95.9758428,
+            "altitude": 200
+        },
+        {
+            "name": "Stella the Stewardess",
+            "latitude": 36.1405355,
+            "longitude": -95.9692526,
+            "altitude": 184
+        },
+        {
+            "name": "Hildegaard the Happy Camper",
+            "latitude": 36.1409808,
+            "longitude": -95.9650798,
+            "altitude": 200
+        },
+        {
+            "name": "Winona",
+            "latitude": 36.118457,
+            "longitude": -95.9389468,
+            "altitude": 200
+        },
+        {
+            "name": "Dr. Zoolittle",
+            "latitude": 36.0811999,
+            "longitude": -95.9587884,
+            "altitude": 200
+        },
+        {
+            "name": "Haute Fun",
+            "latitude": 36.082375,
+            "longitude": -96.1190607,
+            "altitude": 200
+        },
+        {
+            "name": "Waddlesworth",
+            "latitude": 36.1029541,
+            "longitude": -95.9059073,
+            "altitude": 200
+        },
+        {
+            "name": "Boomer",
+            "latitude": 36.1043534,
+            "longitude": -95.9117864,
+            "altitude": 200
+        },
+        {
+            "name": "Sergeant P. Guin",
+            "latitude": 36.0906243,
+            "longitude": -95.8969827,
+            "altitude": 200
+        },
+        {
+            "name": "Handy",
+            "latitude": 36.0944109,
+            "longitude": -95.8681656,
+            "altitude": 200
+        },
+        {
+            "name": "Express Success",
+            "latitude": 36.0602944,
+            "longitude": -95.8560606,
+            "altitude": 200
+        },
+        {
+            "name": "A Coat of a Different Color",
+            "latitude": 36.1475883,
+            "longitude": -95.9854197,
+            "altitude": 200
+        },
+        {
+            "name": "Joy",
+            "latitude": 36.1469027,
+            "longitude": -95.9885632,
+            "altitude": 200
+        },
+        {
+            "name": "Buddy the Penguin",
+            "latitude": 36.1335912,
+            "longitude": -95.989344,
+            "altitude": 200
+        },
+        {
+            "name": "Illustrious Sir",
+            "latitude": 36.1217089,
+            "longitude": -95.9052667,
+            "altitude": 200
+        },
+        {
+            "name": "Triztec the Office Penguin",
+            "latitude": 36.1538983,
+            "longitude": -95.9922719,
+            "altitude": 200
+        },
+        {
+            "name": "P.M.",
+            "latitude": 36.0839603,
+            "longitude": -95.8867956,
+            "altitude": 200
+        },
+        {
+            "name": "Ameriguin",
+            "latitude": 36.0662978,
+            "longitude": -95.8858421,
+            "altitude": 200
+        },
+        {
+            "name": "Charity",
+            "latitude": 36.206257,
+            "longitude": -95.906595,
+            "altitude": 200
+        },
+        {
+            "name": "Two-Faced Penguin",
+            "latitude": 36.15276,
+            "longitude": -95.9889899,
+            "altitude": 200
+        },
+        {
+            "name": "Keeping the Wonder Alive",
+            "latitude": 36.1630069,
+            "longitude": -95.7962982,
+            "altitude": 200
+        },
+        {
+            "name": "Girl from Patagonia",
+            "latitude": 36.0922421,
+            "longitude": -95.8858581,
+            "altitude": 200
+        },
+        {
+            "name": "Happy",
+            "latitude": 36.0861225,
+            "longitude": -95.9406493,
+            "altitude": 200
+        },
+        {
+            "name": "Home",
+            "latitude": 36.06489,
+            "longitude": -95.92639,
+            "altitude": 200
+        }
+    ]
+}

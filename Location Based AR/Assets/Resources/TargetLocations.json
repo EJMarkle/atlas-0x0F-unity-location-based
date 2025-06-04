@@ -1,0 +1,22 @@
+{
+    "locations": [
+        {
+            "name": "Home",
+            "latitude": 36.06480407714844,
+            "longitude": -95.92638397216797,
+            "altitude": 200.3000030517578
+        },
+        {
+            "name": "Little Ceasars",
+            "latitude": 36.09013748168945,
+            "longitude": -95.9028091430664,
+            "altitude": 211.09140014648438
+        },
+        {
+            "name": "Atlas",
+            "latitude": 36.1557379,
+            "longitude": -95.9950594,
+            "altitude": 184.09140014648438
+        }
+    ]
+}

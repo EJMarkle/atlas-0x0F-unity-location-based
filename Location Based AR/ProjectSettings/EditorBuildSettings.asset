@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Location Based AR.unity
+  - enabled: 0
+    path: Assets/Scenes/LocBasedAR.unity
+    guid: e89e6d26473c9e9478783226b6c14fc2
+  - enabled: 0
+    path: Assets/Scenes/Dev.unity
     guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 1
+    path: Assets/Scenes/LocBasedAR with Object Spawn.unity
+    guid: efd184304c3aabb43a38fe0016868bea
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
